@@ -2,7 +2,7 @@
 
 Full Stack Developer focused on building clean, scalable, and maintainable web applications.
 
-I have experience with React, Node.js, Laravel, REST APIs, database design, and end-to-end feature development — from requirements and backend logic to frontend implementation and production deployment.
+I work with React, Node.js, Laravel, REST APIs, and database-driven systems, with experience in end-to-end feature development — from requirements and database design to backend implementation, frontend UI, and production deployment.
 
 ## Tech Stack
 
@@ -22,44 +22,24 @@ I have experience with React, Node.js, Laravel, REST APIs, database design, and 
 
 ## Main Technologies
 
-- React, Redux, TypeScript, JavaScript
-- Node.js, Express, Laravel
-- REST APIs and backend services
-- MongoDB, MySQL, SQL Server
-- Docker, Linux, Nginx
-- Git, GitHub, Bitbucket
-- AI-assisted development tools
-
-## Featured Project
-
-### Ticket Management System
-
-A full stack ticket management system built with Laravel, SQL Server, and React.
-
-The project includes:
-
-- Laravel API with clean structure
-- SQL Server database
-- React dashboard
-- Ticket creation, filtering, sorting, assignment, and status management
-- Business logic using a service layer
-- Laravel Scheduler for stale high-priority tickets
-- Feature tests
-- Clean README and installation guide
-
-Repository:  
-https://github.com/ShoshiBloy/ticket-management-system
+- Frontend: React, Redux, TypeScript, JavaScript
+- Backend: Node.js, Express, Laravel
+- APIs: REST APIs and backend services
+- Databases: MongoDB, MySQL, SQL Server
+- DevOps: Docker, Linux, Nginx
+- Tools: Git, GitHub, Bitbucket
+- Workflow: Agile development, code reviews, AI-assisted development tools
 
 ## What I Focus On
 
 - Clean and maintainable code
-- Separation of concerns
+- Clear separation of concerns
 - Scalable backend logic
-- Clear REST API design
-- Practical frontend UX
+- Practical frontend user experience
+- Reliable REST API design
 - End-to-end feature ownership
 - Organized Git workflow
-- Good documentation
+- Clear documentation
 
 ## Currently Working With
 
@@ -70,7 +50,3 @@ https://github.com/ShoshiBloy/ticket-management-system
 - SQL Server
 - MongoDB
 - Docker
-
-## Contact
-
-Email: shoshi3705@gmail.com

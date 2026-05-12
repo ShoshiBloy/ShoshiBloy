@@ -2,7 +2,7 @@
 
 Full Stack Developer focused on building clean, scalable, and maintainable web applications.
 
-I work with React, Node.js, Laravel, REST APIs, and database-driven systems, with experience in end-to-end feature development — from requirements and database design to backend implementation, frontend UI, and production deployment.
+I work with React, Node.js, Laravel, REST APIs, and database-driven systems, with experience in end-to-end feature development - from requirements and database design to backend implementation, frontend UI, and production deployment.
 
 ## Tech Stack
 
